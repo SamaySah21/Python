@@ -28,3 +28,5 @@ del nums[2:]             # delete multiple values togeteher
 nums.extend([1,2,3,"f"])        # add multiple value together
 print(nums)
 
+# there are other default function as well such as min, max, sum etc
+
