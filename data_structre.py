@@ -30,3 +30,7 @@ print(nums)
 
 # there are other default function as well such as min, max, sum etc
 
+key = [1,2,3]
+value = [4,5,6]
+data = dict(zip(key, value))
+print(data)
