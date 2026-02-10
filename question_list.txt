@@ -1,0 +1,27 @@
+Q1 : Difference between list , tuple , set and dictionary ?
+A1 : https://github.com/SamaySah21/Python/blob/main/datastructres.ipynb
+
+Q2 : What is OOP , explain all concepts upto level of MRO , Metaclasses ,  Abstract base classes , Mixins
+A2 : Completed (updating git link soon)
+
+Q3 : File handling
+A3 : 
+
+Q4 : Logging and Exception handling
+A4 : 
+
+Q5 : Decorator , Iterator , Generator
+A5 : 
+
+Q6 : Lambda , filter , , map , reduce 
+
+Q7 : Parallel Processing & concurrency (multithreading , multiprocessing , asyncio)
+A7 : Completed (updating git link soon)
+
+Q8 : Pandas
+A8 :
+Q9 : * WSGI / ASGI , Gunicorn / Uvicorn , API architectures
+
+Q10 : Garbage collection , Memory Model , execution model
+
+Q11 : Code coverage (pytest )
