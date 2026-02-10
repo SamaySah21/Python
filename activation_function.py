@@ -3,6 +3,7 @@
 # relu activation function
 
 from matplotlib import pyplot
+import numpy as np
 
 def rectifiedLinearUnit(x):
     return max(0.0, x)
