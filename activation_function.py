@@ -4,6 +4,7 @@
 
 from matplotlib import pyplot
 import numpy as np
+import time
 
 def rectifiedLinearUnit(x):
     return max(0.0, x)
