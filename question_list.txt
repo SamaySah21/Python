@@ -4,14 +4,11 @@ A1 : https://github.com/SamaySah21/Python/blob/main/datastructres.ipynb
 Q2 : What is OOP , explain all concepts upto level of MRO , Metaclasses ,  Abstract base classes , Mixins
 A2 : Completed (updating git link soon)
 
-Q3 : File handling
+Q3 : Logging and Exception handling
 A3 : 
 
-Q4 : Logging and Exception handling
+Q4 : Decorator , Iterator , Generator
 A4 : 
-
-Q5 : Decorator , Iterator , Generator
-A5 : 
 
 Q6 : Lambda , filter , , map , reduce 
 
