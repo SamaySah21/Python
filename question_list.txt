@@ -8,17 +8,25 @@ Q3 : Logging and Exception handling
 A3 : 
 
 Q4 : Decorator , Iterator , Generator
-A4 : 
+A4 : Again from Campusx
 
-Q6 : Lambda , filter , , map , reduce 
+Q5 : Lambda , filter , , map , reduce 
+A5 : 
+
+Q6 : List comprehension
+A6 : 
 
 Q7 : Parallel Processing & concurrency (multithreading , multiprocessing , asyncio)
 A7 : Completed (updating git link soon)
 
 Q8 : Pandas
 A8 :
-Q9 : * WSGI / ASGI , Gunicorn / Uvicorn , API architectures
 
-Q10 : Garbage collection , Memory Model , execution model
+Q9 : Groupby Pandas
+A9 : 
 
-Q11 : Code coverage (pytest )
+Q10 : * WSGI / ASGI , Gunicorn / Uvicorn , API architectures
+
+Q11 : Garbage collection , Memory Model , execution model
+
+Q12 : Code coverage (pytest )
