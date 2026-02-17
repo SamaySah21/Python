@@ -5,28 +5,31 @@ Q2 : What is OOP , explain all concepts upto level of MRO , Metaclasses ,  Abstr
 A2 : Completed (updating git link soon)
 
 Q3 : Logging and Exception handling
-A3 : 
+A3 : 12
 
 Q4 : Decorator , Iterator , Generator
-A4 : Again from Campusx
+A4 : 12
 
 Q5 : Lambda , filter , , map , reduce 
-A5 : 
+A5 : 13
 
 Q6 : List comprehension
-A6 : 
+A6 : 13
 
 Q7 : Parallel Processing & concurrency (multithreading , multiprocessing , asyncio)
 A7 : Completed (updating git link soon)
 
 Q8 : Pandas
-A8 :
+A8 : 14
 
 Q9 : Groupby Pandas
-A9 : 
+A9 : 15
 
 Q10 : * WSGI / ASGI , Gunicorn / Uvicorn , API architectures
+A10: 16
 
 Q11 : Garbage collection , Memory Model , execution model
+A11 : 16
 
 Q12 : Code coverage (pytest )
+A12 : 17
