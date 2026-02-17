@@ -13,7 +13,7 @@ A4 : 12
 Q5 : Lambda , filter , , map , reduce 
 A5 : 13
 
-Q6 : List comprehension
+Q6 : List comprehension , Dictionary comprehension
 A6 : 13
 
 Q7 : Parallel Processing & concurrency (multithreading , multiprocessing , asyncio)
