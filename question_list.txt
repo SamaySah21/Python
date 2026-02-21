@@ -1,35 +1,46 @@
-Q1 : Difference between list , tuple , set and dictionary ?
-A1 : https://github.com/SamaySah21/Python/blob/main/datastructres.ipynb
+ ===========================================================================================================================================================
 
-Q2 : What is OOP , explain all concepts upto level of MRO , Metaclasses ,  Abstract base classes , Mixins
-A2 : Completed (updating git link soon)
 
-Q3 : Logging and Exception handling
-A3 : 12
+Q 1 :
+A 1 :
 
-Q4 : Decorator , Iterator , Generator
-A4 : 12
+Q 2 : Difference between list , tuple , set and dictionary ?
+A 2 : https://github.com/SamaySah21/Python/blob/main/datastructres.ipynb 
 
-Q5 : Lambda , filter , , map , reduce 
-A5 : 13
+Q 3 : What is OOP , explain all concepts upto level of MRO , meta classes ,  Abstract base classes , Mixins. 
+A 3 : Completed (updating git link soon)
 
-Q6 : List comprehension , Dictionary comprehension
-A6 : 13
+Q 4 : Logging and Exception handling
+A 4 : 12
 
-Q7 : Parallel Processing & concurrency (multithreading , multiprocessing , asyncio)
-A7 : Completed (updating git link soon)
+Q 5 : Decorator , Iterator , Generator
+A 5 : 12
 
-Q8 : Pandas
-A8 : 14
+Q 6 : Lambda , filter , , map , reduce 
+A 6 : Completed
 
-Q9 : Groupby Pandas
-A9 : 15
+Q 7 : List comprehension , Dictionary comprehension
+A 7 : Completed
 
-Q10 : * WSGI / ASGI , Gunicorn / Uvicorn , API architectures
-A10: 16
+Q 8 : Parallel Processing & concurrency (multithreading , multiprocessing , asyncio)
+A 8 : Completed (updating git link soon)
 
-Q11 : Garbage collection , Memory Model , execution model
-A11 : 16
+Q 9 : Pandas
+A 9 : 14
 
-Q12 : Code coverage (pytest )
-A12 : 17
+Q 10 : Groupby Pandas
+A 10 : 15
+
+Q 11 : * WSGI / ASGI , Gunicorn / Uvicorn , API architectures
+A 11 : 16
+
+Q 12 : Garbage collection , Memory Model , execution model
+A 12 : 16
+
+Q 13 : Code coverage (pytest )
+A 13 : 17
+
+   =================================================================================================================================================
+
+
+
